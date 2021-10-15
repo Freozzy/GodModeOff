@@ -1,0 +1,2 @@
+getgenv().autoDeleteHelmet = false
+getgenv().autoHelmet = false
